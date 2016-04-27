@@ -1,0 +1,6 @@
+Z:\Visual Studio 2015\Projects\Shoe Counter\Shoe Counter\bin\Debug\Shoe Counter.exe.config
+Z:\Visual Studio 2015\Projects\Shoe Counter\Shoe Counter\bin\Debug\Shoe Counter.exe
+Z:\Visual Studio 2015\Projects\Shoe Counter\Shoe Counter\bin\Debug\Shoe Counter.pdb
+Z:\Visual Studio 2015\Projects\Shoe Counter\Shoe Counter\obj\Debug\Shoe Counter.csprojResolveAssemblyReference.cache
+Z:\Visual Studio 2015\Projects\Shoe Counter\Shoe Counter\obj\Debug\Shoe Counter.exe
+Z:\Visual Studio 2015\Projects\Shoe Counter\Shoe Counter\obj\Debug\Shoe Counter.pdb
